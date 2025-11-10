@@ -1,0 +1,16 @@
+Django>=4.2
+djangorestframework>=3.14
+djangorestframework-simplejwt>=5.3.0
+drf-yasg>=1.21.7
+PyJWT>=2.8.0
+python-dotenv==1.0.1
+# psycopg2-binary>=2.9.9     # if using PostgreSQL
+# mysqlclient>=2.2.0         # if using MySQL
+python-decouple>=3.8
+django-cors-headers>=4.3.0
+pytest>=8.2.0
+pytest-django>=4.8.0
+pytest-cov>=5.0.0
+gunicorn>=21.2.0
+whitenoise>=6.6.0
+Pillow>=10.0.1
